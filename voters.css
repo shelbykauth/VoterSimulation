@@ -1,0 +1,14 @@
+fieldset{
+	display: inline-block;
+	vertical-align: top;
+}
+table,th{
+	border: 1px solid black;
+}
+.likeable {
+    width: 3em;
+}
+#original{
+	visibility: hidden;
+	position: absolute;
+}
